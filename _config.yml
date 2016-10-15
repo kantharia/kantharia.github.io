@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://kantharia.github.io
+title: Kantharia
+email: chetan.kantharia@gmail.com
+author: Chetan Kantharia
+description: My awesome new site
+paginate: 3
+google_analytics: 
